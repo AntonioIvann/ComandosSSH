@@ -1,0 +1,11 @@
+git init - Inicializar repositorio
+git status - Para saber el estado del repositorio
+git add . - pPara preparar los archivos antes del commit
+git commit -m "Descripcion"
+git remote -v - Ver su repositorio remoto
+git log - Ver las versiones de nuestrom codigo
+git reset --hard commit-log - Regresar a una version anterior del versionamiento
+git config --global user.email "correo personal" - Para conectarse de forma remota a github con correo
+git config --global user.name "Nombre completo" - Para conectarse con nombre
+git remote -v - para ver el origen del repositorio
+git push origin master - Para actualizar el repositorio
